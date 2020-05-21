@@ -1,0 +1,18 @@
+body {
+    font-size: 30px;
+}
+.dark-mode{
+    background-color: #000;
+    color: #fff;
+}
+button{
+    color: white;
+    font-size: 22px;
+    background-color: red;
+    text-align: center;
+    padding: 5px 12px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
